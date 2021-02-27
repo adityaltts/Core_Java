@@ -36,5 +36,6 @@ if (n<5&&n>0&&a>0&&b>0&&a<32767&&b<32767){
     {
     	System.out.println("Invalid Input");
     }
+	 sc.close();
   }
 }
