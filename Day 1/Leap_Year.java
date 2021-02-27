@@ -19,5 +19,6 @@ public class Leap {
     else{
     System.out.println("Invaild Input");
   }
+    sc.close();
 }
 }
