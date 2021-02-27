@@ -49,5 +49,6 @@ System.out.println(c);
     else{
         System.out.println("Invalid Input");
     }
+        sc.close();
 }  
 }
