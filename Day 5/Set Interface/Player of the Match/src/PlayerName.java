@@ -9,7 +9,7 @@ public class PlayerName {
 		int n = sc.nextInt();
 		
 		System.out.println("Enter a string: ");
-		String[] str = new String[10];    
+		String[] str = new String[n];    
 		Scanner sc1 = new Scanner(System.in);
 		for (int i = 0; i < n; i++)   
 		{  
